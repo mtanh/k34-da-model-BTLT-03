@@ -1,2 +1,5 @@
 dataset/
 venv/
+decomposition_seasonal/
+decomposition_stl/
+decomposition_stl_comparison/
